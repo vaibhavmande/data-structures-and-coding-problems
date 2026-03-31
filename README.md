@@ -1,2 +1,3 @@
-# data-structures
-Data Structures implemented in JavaScript
+# Coding Problems
+
+This repo contains solution to a few coding problems
